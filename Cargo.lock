@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "length_of_last_word_58"
 version = "0.1.0"
+
+[[package]]
+name = "two_sum_1"
+version = "0.1.0"
