@@ -3,7 +3,39 @@
 version = 3
 
 [[package]]
+name = "add_binary_67"
+version = "0.1.0"
+
+[[package]]
+name = "climbing_stairs_70"
+version = "0.1.0"
+
+[[package]]
+name = "contains_duplicate_217"
+version = "0.1.0"
+
+[[package]]
+name = "contains_duplicate_ii_219"
+version = "0.1.0"
+
+[[package]]
+name = "excel_sheet_column_number_171"
+version = "0.1.0"
+
+[[package]]
+name = "excel_sheet_column_title_168"
+version = "0.1.0"
+
+[[package]]
 name = "find_the_index_of_the_first_occurrence_in_a_string_28"
+version = "0.1.0"
+
+[[package]]
+name = "happy_number_202"
+version = "0.1.0"
+
+[[package]]
+name = "isomorphic_strings_205"
 version = "0.1.0"
 
 [[package]]
@@ -11,5 +43,45 @@ name = "length_of_last_word_58"
 version = "0.1.0"
 
 [[package]]
+name = "majority_element_169"
+version = "0.1.0"
+
+[[package]]
+name = "merge_sorted_array_88"
+version = "0.1.0"
+
+[[package]]
+name = "number_of_1_bits_191"
+version = "0.1.0"
+
+[[package]]
+name = "pascals_triangle_118"
+version = "0.1.0"
+
+[[package]]
+name = "plus_one_66"
+version = "0.1.0"
+
+[[package]]
+name = "reverse_bits_190"
+version = "0.1.0"
+
+[[package]]
+name = "search_insert_position_35"
+version = "0.1.0"
+
+[[package]]
+name = "single_number_136"
+version = "0.1.0"
+
+[[package]]
 name = "two_sum_1"
+version = "0.1.0"
+
+[[package]]
+name = "valid_parentheses_20"
+version = "0.1.0"
+
+[[package]]
+name = "valid_plaindrome_125"
 version = "0.1.0"
