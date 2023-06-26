@@ -44,7 +44,7 @@
       "name": "Debug",
       "type": "lldb",
       "request": "launch",
-      "program": "${workspaceRoot}/target/debug/rust_playground.exe",
+      "program": "${workspaceFolder}/../target/debug/${workspaceFolderBasename}.exe",
       "args": [],
       "cwd": "${workspaceFolder}",
       "sourceLanguages": [
