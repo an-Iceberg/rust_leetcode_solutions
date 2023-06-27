@@ -1,3 +1,4 @@
 {
   "workbench.colorTheme": "Woody",
+  "rust-analyzer.showUnlinkedFileNotification": false,
 }
