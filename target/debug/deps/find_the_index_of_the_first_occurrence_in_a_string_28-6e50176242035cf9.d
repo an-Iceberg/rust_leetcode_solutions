@@ -1,0 +1,5 @@
+c:\Users\Andras\Programming\github_repositories\rust_leetcode_solutions\target\debug\deps\find_the_index_of_the_first_occurrence_in_a_string_28-6e50176242035cf9.exe: find_the_index_of_the_first_occurrence_in_a_string_28\src\main.rs
+
+c:\Users\Andras\Programming\github_repositories\rust_leetcode_solutions\target\debug\deps\find_the_index_of_the_first_occurrence_in_a_string_28-6e50176242035cf9.d: find_the_index_of_the_first_occurrence_in_a_string_28\src\main.rs
+
+find_the_index_of_the_first_occurrence_in_a_string_28\src\main.rs:

@@ -1,0 +1,1 @@
+C:\Users\Andras\Programming\github_repositories\rust_leetcode_solutions\target\debug\add_binary_67.exe: C:\Users\Andras\Programming\github_repositories\rust_leetcode_solutions\add_binary_67\src\main.rs

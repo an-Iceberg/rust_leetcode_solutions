@@ -1,0 +1,1 @@
+C:\Users\Andras\Programming\github_repositories\rust_leetcode_solutions\target\debug\single_number_136.exe: C:\Users\Andras\Programming\github_repositories\rust_leetcode_solutions\single_number_136\src\main.rs
