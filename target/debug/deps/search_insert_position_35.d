@@ -1,5 +1,0 @@
-C:\Users\Andras\Programming\github_repositories\rust_leetcode_solutions\target\debug\deps\search_insert_position_35.exe: search_insert_position_35\src\main.rs
-
-C:\Users\Andras\Programming\github_repositories\rust_leetcode_solutions\target\debug\deps\search_insert_position_35.d: search_insert_position_35\src\main.rs
-
-search_insert_position_35\src\main.rs:

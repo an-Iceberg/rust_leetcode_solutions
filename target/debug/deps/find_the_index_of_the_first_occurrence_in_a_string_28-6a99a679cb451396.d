@@ -1,5 +1,0 @@
-C:\Users\Andras\Programming\github_repositories\rust_leetcode_solutions\target\debug\deps\find_the_index_of_the_first_occurrence_in_a_string_28-6a99a679cb451396.rmeta: find_the_index_of_the_first_occurrence_in_a_string_28\src\main.rs
-
-C:\Users\Andras\Programming\github_repositories\rust_leetcode_solutions\target\debug\deps\find_the_index_of_the_first_occurrence_in_a_string_28-6a99a679cb451396.d: find_the_index_of_the_first_occurrence_in_a_string_28\src\main.rs
-
-find_the_index_of_the_first_occurrence_in_a_string_28\src\main.rs:

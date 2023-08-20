@@ -1,1 +1,0 @@
-C:\Users\Andras\Programming\github_repositories\rust_leetcode_solutions\target\debug\valid_parentheses_20.exe: C:\Users\Andras\Programming\github_repositories\rust_leetcode_solutions\valid_parentheses_20\src\main.rs
